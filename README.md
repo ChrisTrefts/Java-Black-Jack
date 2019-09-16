@@ -1,0 +1,2 @@
+# BlackJack
+This program is a simple text based Black Game which I made when I taught at iD Tech summer camps. This isn't the cleanest code I ever wrote, but it was great teaching mechanism for my students and enabled these new coders to make a game they could take home. Because it was meant for beginner programmers to learn I made them analyze its logical flow rather then implementing methods which would confuse them.
